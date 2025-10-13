@@ -10,8 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/gm-arav-443365368)
 - Twitter: [@arav_gm](https://twitter.com/arav_gm)
 
-![An image of @gmarav05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmarav05)](https://holopin.io/@gmarav05)
-
+[![An image of @gmarav05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmarav05)](https://holopin.io/@gmarav05)
 <!--
 **gmarav05/gmarav05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
