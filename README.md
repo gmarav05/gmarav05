@@ -8,7 +8,7 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gm-arav-443365368)
-- Twitter: [@arav_gm](https://twitter.com/arav_gm)
+- [X](https://twitter.com/arav_gm)
 
 [![An image of @gmarav05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmarav05)](https://holopin.io/@gmarav05)
 <!--
