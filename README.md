@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is gmarav
 
 ## 🚀 Projects
 - 🔗 [Landing Page](https://github.com/gmarav05/landing-page)
