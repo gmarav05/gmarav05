@@ -3,6 +3,7 @@
 ## 🚀 Projects
 - 🔗 [AI-translator](https://github.com/gmarav05/ai-translator)
 - 🎮 [Movie-watchlist](https://github.com/gmarav05/movie-watchlist)
+- 📚 [Color-Scheme-Generator](https://github.com/gmarav05/color-scheme-generator)
 - 📚 [Library App](https://github.com/gmarav05/Library)
 
 
