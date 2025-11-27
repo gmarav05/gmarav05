@@ -1,14 +1,14 @@
 ## Hi there 👋 my name is gmarav
 
 ## 🚀 Projects
-- 🔗 [Landing Page](https://github.com/gmarav05/landing-page)
+- 🔗 [AI-translator]([https://github.com/gmarav05/landing-page](https://github.com/gmarav05/ai-translator))
 - 🎮 [Tic Tac Toe](https://github.com/gmarav05/Tic-Tac-Toe)
 - 📚 [Library App](https://github.com/gmarav05/Library)
 
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gm-arav-443365368)
-- [X](https://twitter.com/arav_gm)
+- [X](https://twitter.com/arav_gm)  
 
 [![An image of @gmarav05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmarav05)](https://holopin.io/@gmarav05)
 <!--
