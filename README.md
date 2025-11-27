@@ -1,8 +1,8 @@
 ## Hi there 👋 my name is gmarav
 
 ## 🚀 Projects
-- 🔗 [AI-translator]([https://github.com/gmarav05/landing-page](https://github.com/gmarav05/ai-translator))
-- 🎮 [Tic Tac Toe](https://github.com/gmarav05/Tic-Tac-Toe)
+- 🔗 [AI-translator](https://github.com/gmarav05/ai-translator)
+- 🎮 [Movie-watchlist](https://github.com/gmarav05/movie-watchlist)
 - 📚 [Library App](https://github.com/gmarav05/Library)
 
 
