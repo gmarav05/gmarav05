@@ -4,6 +4,7 @@
 - 🔗 [AI-translator](https://github.com/gmarav05/ai-translator)
 - 🎬 [Movie-watchlist](https://github.com/gmarav05/movie-watchlist)
 - 🎨 [Color-Scheme-Generator](https://github.com/gmarav05/color-scheme-generator)
+- [Static-React-page](https://github.com/gmarav05/static-react-page)
 - 🧮 [unit-converter](https://github.com/gmarav05/unit-converter)
 
 
