@@ -11,7 +11,7 @@
 - 🧮 [unit-converter](https://github.com/gmarav05/unit-converter)
 
 
-## 📫 Connect with Me
+## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/gm-arav-443365368)
 - [X](https://twitter.com/arav_gm)  
 
