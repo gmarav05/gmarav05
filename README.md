@@ -4,11 +4,12 @@
 
 ## 🚀 Projects
 - 🔗 [AI-translator](https://github.com/gmarav05/ai-translator)
--    [Van-Life](https://github.com/gmarav05/vanlife)
--    [Dice-Game](https://github.com/gmarav05/dice-game)
+- 🚙 [Van-Life](https://github.com/gmarav05/vanlife)
+- 🎲 [Dice-Game](https://github.com/gmarav05/dice-game)
 - 🎬 [Movie-watchlist](https://github.com/gmarav05/movie-watchlist)
 - 🎨 [Color-Scheme-Generator](https://github.com/gmarav05/color-scheme-generator)
 - 🧮 [unit-converter](https://github.com/gmarav05/unit-converter)
+- 🧩 [Coding-game](https://github.com/gmarav05/coding-game)
 
 
 ## 📫 How to reach me
