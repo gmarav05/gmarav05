@@ -8,7 +8,6 @@
 - 🎲 [Dice-Game](https://github.com/gmarav05/dice-game)
 - 🎬 [Movie-watchlist](https://github.com/gmarav05/movie-watchlist)
 - 🎨 [Color-Scheme-Generator](https://github.com/gmarav05/color-scheme-generator)
-- 🧮 [unit-converter](https://github.com/gmarav05/unit-converter)
 - 🧩 [Coding-game](https://github.com/gmarav05/coding-game)
 
 
