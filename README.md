@@ -1,6 +1,7 @@
 ## Hi there 👋 my name is gmarav
 
 - 😄 Pronouns: He/Him
+- - 🔭 I’m currently working on projects
 
 ## 🚀 Projects
 - 🔗 [AI-translator](https://github.com/gmarav05/ai-translator)
@@ -9,6 +10,7 @@
 - 🎬 [Movie-watchlist](https://github.com/gmarav05/movie-watchlist)
 - 🎨 [Color-Scheme-Generator](https://github.com/gmarav05/color-scheme-generator)
 - 🧩 [Coding-game](https://github.com/gmarav05/coding-game)
+- 🤔 [Memory-game](https://github.com/gmarav05/memory-game)
 
 
 ## 📫 How to reach me
