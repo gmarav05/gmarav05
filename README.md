@@ -1,7 +1,8 @@
-## Hi there 👋 my name is gmarav
+## About me ⭐️
 
-- 😄 Pronouns: He/Him
-- - 🔭 I’m currently working on projects
+- 🔭 I’m a Full Stack Developer and Open source contributor.
+- 🌱 I’m currently exploring AI/ML and Cloud.
+- 🔎 I’m looking to collaborate on Cloud-based projects and Open Source contributions.
 
 ## 🚀 Projects
 - 🔗 [AI-translator](https://github.com/gmarav05/ai-translator)
@@ -12,10 +13,23 @@
 - 🧩 [Coding-game](https://github.com/gmarav05/coding-game)
 - 🤔 [Memory-game](https://github.com/gmarav05/memory-game)
 
+## Let's Connect
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/gm-arav-443365368)
-- [X](https://twitter.com/arav_gm)  
+
+<div align="left">
+  <a href="gmarav005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  </a>
+  <a href="https://www.linkedin.com/in/g-arav-443365368/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/arav_gm" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
+
+##
+
 
 [![An image of @gmarav05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmarav05)](https://holopin.io/@gmarav05)
 <!--
@@ -24,7 +38,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
