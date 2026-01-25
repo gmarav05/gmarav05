@@ -1,7 +1,7 @@
 ## About me ⭐️
 
 - 🔭 I’m a Full Stack Developer and Open source contributor.
-- 🌱 I’m currently exploring AI/ML and Cloud.
+- 🌱 I’m currently exploring AI/ML and Cloud technology.
 - 🔎 I’m looking to collaborate on Cloud-based projects and Open Source contributions.
 
 ## 🚀 Projects
