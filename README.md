@@ -3,6 +3,7 @@
 - 🔭 I’m a Full Stack Developer and Open source contributor.
 - 🌱 I’m currently exploring AI/ML and Cloud Native technologies.
 - 🔎 I’m looking to collaborate on Cloud-based projects and Open Source contributions.
+- Exploring AWS, Kubernetes, Docker, and CI/CD pipelines.
 
 ## 🚀 Projects
 - 🔗 [AI-translator](https://github.com/gmarav05/ai-translator)
