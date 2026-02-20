@@ -13,7 +13,7 @@
 - 🎨 [Color-Scheme-Generator](https://github.com/gmarav05/color-scheme-generator)
 - 🧩 [Coding-game](https://github.com/gmarav05/coding-game)
 - 🤔 [Memory-game](https://github.com/gmarav05/memory-game)
-
+- 📝 [Notes-App](https://github.com/gmarav05/notes-app)
 ## Let's Connect
 
 
