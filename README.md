@@ -32,14 +32,17 @@
 
 ##
 
+```properties
 ╭─ gmarav05@github ─────────────────────────────────────────────────────────────╮
 │                                                                                 │
-│  profile   CS undergrad | open source , systems , infra , dev tools             │            │
+│  profile   CS undergrad | open source , systems , infra , dev tools             │
+│  trust                                       intainer guidance @Cep             │
 │  impact    merged PRs in CRIU,Rizin,Prometheus,Ceph and more                    │
 │  strength  C/C++ systems work, Python + Go tooling                              │
 │  workflow  no slop, reproducible fixes, fast review turnaround, clean commits   │
 │                                                                                 │
 ╰─────────────────────────────────────────────────────────────────────────────────╯
+```
 
 
 [![An image of @gmarav05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmarav05)](https://holopin.io/@gmarav05)
